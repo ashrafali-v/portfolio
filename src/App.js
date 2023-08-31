@@ -197,7 +197,7 @@ function App() {
             id="mf-btn-netbbok"
             className="font-sans normal font-semibold text-lg leading-7 text-white mt-5 text-start max-lg:text-center"
           >
-            Subscribe Cirkle Newsletter
+            Subscribe Cirkle Newsletter abc
           </div>
           <div
             id="mf-btn-netbbok"
