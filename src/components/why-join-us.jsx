@@ -1,7 +1,7 @@
 import React from 'react'
-import { ReactComponent as Coding } from "../image/coding.svg";
-import { ReactComponent as Discussion } from "../image/discussion.svg";
-import { ReactComponent as Lan } from "../image/lan-cable.svg";
+// import { ReactComponent as Coding } from "../image/coding.svg";
+// import { ReactComponent as Discussion } from "../image/discussion.svg";
+// import { ReactComponent as Lan } from "../image/lan-cable.svg";
 
 export default function WhyJoinUs() {
   return (
@@ -81,10 +81,10 @@ export default function WhyJoinUs() {
             </div>
           </div>
           <div className="w-3/4 max-xl:w-full sm:space-x-5 flex flex-row max-sm:flex-col ml-auto mr-auto sm:ml-0 max-[400px]:-ml-20 max-[500px]:-ml-14 max-xl:-mx-auto max-sm:space-y-2">
-            <Discussion className="xl:mr-10 mt-10 max-[500px]: w-64" />
+            {/* <Discussion className="xl:mr-10 mt-10 max-[500px]: w-64" /> */}
             <div className="flex flex-col space-y-5 ">
-              <Coding className="md:ml-auto mr-auto sm:ml-0 max-[500px]:w-64" />
-              <Lan className="md:ml-auto mr-auto sm:ml-0 max-[500px]:w-64" />
+              {/* <Coding className="md:ml-auto mr-auto sm:ml-0 max-[500px]:w-64" />
+              <Lan className="md:ml-auto mr-auto sm:ml-0 max-[500px]:w-64" /> */}
             </div>
           </div>
         </div>
