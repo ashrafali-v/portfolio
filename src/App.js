@@ -206,7 +206,7 @@ function App() {
             Subscribe to be the first one to know about updates. Enter your
             email
           </div>
-          <EmailForm className="max-lg:ml-auto mr-auto max-lg:ml-0" />
+          <EmailForm className="max-lg:ml-auto mr-auto" />
         </div>
       </div>
       <Footer />

@@ -4,7 +4,7 @@ import Search from "./components/search";
 
 describe("App component", () => {
   test("it renders first fold element", () => {
-    render(<App />);
+    render(<App/>);
     const linkElement = screen.getByText(/Whats netbooks?/i);
     expect(linkElement).toBeInTheDocument();
   });
