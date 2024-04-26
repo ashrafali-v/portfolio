@@ -18,7 +18,7 @@ export default function MainBanner() {
               id="mf-tite"
               className="font-sans normal font-bold text-5xl leading-10 text-[#0A093D] mt-5 text-start"
             >
-              Hi, This is Your Solutions For Community!
+              Hi, This is Your Solutions For Community!123
             </div>
             <div
               id="mf-desc"
